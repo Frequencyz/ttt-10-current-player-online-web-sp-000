@@ -1,5 +1,5 @@
-turn_count = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-turn_count.each do |turn|
+def turn_count(board)
+  turns = 0
   
   
 
